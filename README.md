@@ -8,6 +8,7 @@
 ## 👨‍💻 welcome to my worksoace 💻
 
 - 👨‍💻 I'm currently working in Chat app using firebase
+- IOS Developer
 - 💪🏻 already worked flutterxmpp for chatapp
 - 📝 I'm currently React for webdevelopment
 - Little bit exploring Web development too. 
