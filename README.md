@@ -2,7 +2,7 @@
 
 **Flutter Developer from India**
 
- _I specialize in Flutter Android and IOS Development, I write the code simple and understand, I have a great passion for learning new languages and also currently learning react for web development_
+ _I specialize in  IOS Development and Flutter developer, I write the code simple and understand, I have a great passion for learning new languages and also currently learning react for web development_
 
 
 ## 👨‍💻 welcome to my worksoace 💻
