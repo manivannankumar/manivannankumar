@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Manivannan</h1>
-<h3 align="center">IOS Developer from India 🇮🇳</h3>
+<h1 align="left">Hi 👋, I'm Manivannan</h1>
+<h3 align="left">IOS Developer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manivannankumar&label=Profile%20views&color=0e75b6&style=flat" alt="manivannankumar" /> </p>
-
+<img align="right" src="https://media.tenor.com/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif" width="400" height="250" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manivannankumar" alt="manivannankumar" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/kmaniva4770217" target="blank"><img src="https://img.shields.io/twitter/follow/kmaniva4770217?logo=twitter&style=for-the-badge" alt="kmaniva4770217" /></a> </p>
 
